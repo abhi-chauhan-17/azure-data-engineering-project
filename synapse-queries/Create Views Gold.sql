@@ -1,3 +1,5 @@
+CREATE SCHEMA gold;
+
 CREATE VIEW gold.calendar
 AS
 (
